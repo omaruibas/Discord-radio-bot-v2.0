@@ -1,0 +1,6 @@
+{
+    "COMMANDS_FOLDER":"commands",
+    "EVENTS_FOLDER":"events",
+    "FUNCTIONS_FOLDER":"functions",
+    "JSON_FOLDER":"json"
+}

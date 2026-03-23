@@ -1,0 +1,10 @@
+{
+    "bot":{
+        "token":"DISCORD-BOT-TOKEN",
+        "clientID":"BOT-ID",
+        "debugMode":false
+    },
+    "radio":{
+        "streamingURL":"https://stream.radiojar.com/8s5u5tpdtwzuv"
+    }
+}

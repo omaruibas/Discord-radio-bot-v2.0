@@ -1,0 +1,9 @@
+{
+    "player_listening":1500,
+    "player_stopping":10000,
+    "commands_cooldown":5000,
+    "connection_lost":5000,
+    "checking_player":30000,
+    "retry_registeration":5000,
+    "resolving_loop":30000
+}

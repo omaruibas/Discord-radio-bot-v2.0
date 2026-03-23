@@ -1,0 +1,15 @@
+{
+    "tagged_messages":{
+        "NOT_CONNECTED_TO_VOICE":"Connect first to a voice channel, So i can join you :D!",
+        "ALREADY_CONNECTED_TO_VOICE":"Radio is already connected to {CHANNEL} :white_check_mark:",
+        "DONE_CONNECT_TO_VOICE":"Done connecting radio to {CHANNEL} :D :white_check_mark:!",
+        "ALREADY_NOT_CONNECTED_TO_VOICE":"Radio is already not connected :white_check_mark:",
+        "DONE_DISCONNECT_FROM_VOICE":"Radio is now disconnected from {CHANNEL} :white_check_mark:",
+        "MISSING_PERMISSIONS":"You should have permissions of `{PERMISSIONS}` :warning: !",
+        "NO_PERMISSION_TO_SPEAK":"I don't have permission to speak at {CHANNEL} :(!",
+        "NO_PERMISSION_TO_CONNECT":"I don't have permission to connect at {CHANNEL} :(!",
+        "CONNECTION_ISSUE":"Connection passed throw issues.. please try again :(",
+        "WAIT_COOLDOWN":"Please wait more `{TIME}s` to use this command."
+    },
+    "general_error_message":"Opps.. something went wrong, Please try again :(!"
+}
